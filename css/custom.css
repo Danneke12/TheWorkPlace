@@ -1,0 +1,102 @@
+.menu {
+    -moz-box-shadow:inset 0px -3px 7px 0px #e31818;
+    -webkit-box-shadow:inset 0px -3px 7px 0px #e31818;
+    box-shadow:inset 0px -3px 7px 0px #e31818;
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #e31818), color-stop(1, #ad2711));
+    background:-moz-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:-webkit-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:-o-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:-ms-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:linear-gradient(to bottom, #e31818 5%, #ad2711 100%);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#2dabf9', endColorstr='#0688fa',GradientType=0);
+    background-color:#e31818;
+    color:#ffffff;
+    padding:9px 23px;
+    text-shadow:0px 1px 0px #ad2711;
+    border: none;
+    border-top-left-radius: 10px;
+}
+.menu-login {
+    -moz-box-shadow:inset 0px -3px 7px 0px #e31818;
+    -webkit-box-shadow:inset 0px -3px 7px 0px #e31818;
+    box-shadow:inset 0px -3px 7px 0px #e31818;
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05,#e31818), color-stop(1, #ad2711));
+    background:-moz-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:-webkit-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:-o-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:-ms-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:linear-gradient(to bottom, #e31818 5%, #ad2711 100%);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#2dabf9', endColorstr='#0688fa',GradientType=0);
+    background-color:#e31818;
+    color:#ffffff;
+    padding:9px 23px;
+    text-shadow:0px 1px 0px #ad2711;
+    border: none;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.menu-andersom{
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#1191f9', endColorstr='#2dabf9',GradientType=0);
+    background-color:#e31818;
+    color:#ffffff;
+    padding: 9px 23px;
+    text-shadow:0px 1px 0px #ad2711;
+    border: 0px;
+    border-radius: 0px;
+}
+.logout {color: #ad2711;}
+.logout a:hover {color: #ad2711; text-decoration: none}
+.logout a {text-decoration: none; color: #ad2711;}
+.menu_left {border-bottom-left-radius: 10px;}
+.menu_right { border-bottom-right-radius: 10px;}
+.right_side { float: right; padding-top: 3%;color: #e31818; text-shadow: 0px 1px 0px #dadada;font-size: 50px;}
+.right_side:hover { float: right; padding-top: 3%;color: #e31818; text-shadow: 0px 1px 0px #dadada;font-size: 50px;}
+.left_side{float: left; padding-bottom: 1%; padding-top: 1%;}
+.search {display: block; text-align: -webkit-center; padding-top: 11%; padding-left: 60%;}
+.borderkill {border-radius: 0px;}
+.padding-login { padding-top:7% ;}
+.white{color: white;}
+.white:hover {color:white; text-decoration: none;}
+.logged { float:right; clear:both; color: #e31818; text-shadow: 0px 1px 0px #dadada;}
+.right_side_admin { float: right; padding-top: 1%; color: #e31818; text-shadow: 0px 1px 0px #dadada; font-size: 50px; clear: right; }
+.right_side_pre {}
+.search_admin_item { padding-top: 11%; padding-left: 85%;}
+.inputdisable:disabled{background: #dddddd;}
+#textbar {margin-top: 15%;}
+#informatie {width: 20%; background-color: ghostwhite; border-bottom-left-radius: 10px;border-bottom-right-radius: 10px; float: right;margin-right:1%; margin-top: 1%; clear: right; padding-bottom: 1%; }
+#informatie info{background-color: ghostwhite; font-style: normal; padding-left: 8%;}
+#informatie h2 {color: white; background-color: #e31818; text-align: center; padding-left:0; margin-top: 0;
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05,#e31818), color-stop(1, #ad2711));
+    background:-moz-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:-webkit-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:-o-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:-ms-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:linear-gradient(to bottom, #e31818 5%, #ad2711 100%);}
+#klant_info h2 {font-size:25px; color: white; text-align: left; margin-right:0; padding-left:1%; margin-top: 0; padding-bottom:0.5%;
+    padding-top:0.5%;
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05,#e31818), color-stop(1, #ad2711));
+    background:-moz-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:-webkit-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:-o-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:-ms-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:linear-gradient(to bottom, #e31818 5%, #ad2711 100%);}
+#klant_info {width: 100%; background-color: ghostwhite; border-radius: 10px;  padding-bottom: 1%; }
+#pre_info {width: 100%; background: ghostwhite; border-radius: 10px; margin-top:2%; padding-bottom:1%;}
+#pre_info h2 {font-size:25px; color: white; text-align: left; margin-right:0; padding-left:1%; margin-top: 0; padding-bottom:0.5%;
+    padding-top:0.5%;
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05,#e31818), color-stop(1, #ad2711));
+    background:-moz-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:-webkit-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:-o-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:-ms-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:linear-gradient(to bottom, #e31818 5%, #ad2711 100%);}
+#checklist {width: 100%; background: ghostwhite; border-radius: 10px; margin-top:2%; padding-bottom:1%;}
+#checklist h2 {font-size:25px; color: white; text-align: left; margin-right:0; padding-left:1%; margin-top: 0; padding-bottom:0.5%;
+    padding-top:0.5%;
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05,#e31818), color-stop(1, #ad2711));
+    background:-moz-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:-webkit-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:-o-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:-ms-linear-gradient(top, #e31818 5%, #ad2711 100%);
+    background:linear-gradient(to bottom, #e31818 5%, #ad2711 100%);}
+.checklist_opschuiven{padding-left:1%;}

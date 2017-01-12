@@ -1,0 +1,16 @@
+#per {color:purple; }
+#per p {color: black; float:left; width: 20%;}
+#per input {height:10%;}
+#per br {clear: both;}
+#per2 {color:purple; }
+#per2 p {color: black; float:left; width: 27%;}
+#per2 input {height:10%;}
+#per2 br {clear: both;}
+#os {}
+#os textarea {margin: 0px; width: 535px; height: 52px; resize: none;}
+#os p {float: left; width:40%;}
+#soft {width:15%;}
+#soft p {float:right;}
+#softer {width: 50%;}
+.soft_links {float:left; width: 50%;}
+.soft_rechts {float:right; width: 50%;}
